@@ -107,6 +107,10 @@ git clone https://github.com/sbwml/luci-app-dae package/dae
 git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 ```
 ```
+# luci-app-socat
+git clone https://github.com/chenmozhijin/luci-app-socat.git
+```
+```
 # luci-app-aliddns
 git clone https://github.com/pymumu/smartdns.git
 ```
